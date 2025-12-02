@@ -21,6 +21,13 @@
                 name: "Lima Docs",
                 repo: "",
                 loadSidebar: true,
+                plugins: [
+                    function (hook, vm) {
+                        hook.doneEach(function () {
+                            document.title += " - Lima Docs";
+                        });
+                    },
+                ],
             };
         </script>
         <!-- Docsify v4 -->
