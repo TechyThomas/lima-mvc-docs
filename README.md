@@ -1,3 +1,3 @@
-# Headline
+# Lima Docs
 
-> An awesome project.
+> All documentation for my MVC framework called Lima (https://limaphp.com)
