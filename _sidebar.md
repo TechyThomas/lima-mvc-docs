@@ -3,3 +3,4 @@
 -   [Home](/)
 -   [About](/about.md)
 -   [Getting Started](/getting-started.md)
+-   [Configuration](/configuration.md)
